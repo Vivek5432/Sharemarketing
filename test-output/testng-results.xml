@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46668" started-at="2022-03-07T12:01:27 IST" finished-at="2022-03-07T12:02:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46668" started-at="2022-03-07T12:01:27 IST" finished-at="2022-03-07T12:02:14 IST">
+      <class name="BaseClasses.Utility">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:BaseClasses.Utility@10b40af]" name="TC01" duration-ms="46578" started-at="2022-03-07T12:01:27 IST" finished-at="2022-03-07T12:02:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+      </class> <!-- BaseClasses.Utility -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
